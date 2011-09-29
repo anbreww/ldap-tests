@@ -8,4 +8,4 @@ Currently just returns a name from a given sciper number, but we should be able 
 * Python 2.x
 * ldap
 
-	sudo apt-get install python python-ldap
+`sudo apt-get install python python-ldap`
